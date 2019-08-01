@@ -1,6 +1,6 @@
 {
   "name": "@yabhq/nuxt-hotjar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Module for hotjar implementation in NuxtJS",
   "author": {
     "name": "Yab",
