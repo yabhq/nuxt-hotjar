@@ -17,7 +17,7 @@ modules: [
         hjid: 0000000, // required
         hjsv: 0, // optional
         defer: false, // optional
-        async: false // optional,
+        async: false, // optional
         dev: false // optional
     }],
     // ....
